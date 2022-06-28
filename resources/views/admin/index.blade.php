@@ -9,7 +9,7 @@
 
 <body>
 <h1>Hola como estan</h1>
-<h2>Queridos alumnos</h2>
+<h2>Se volvio a reescribir esta linea de codigo</h2>
 </body>
 
 </html>
