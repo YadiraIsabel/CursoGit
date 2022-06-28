@@ -23,6 +23,6 @@
     <body class="antialiased">
         <h1>Proyecto de github </h1>
         <h1>Nuevo parrafo 1 </h1>
-        <h3>Hola alumnos</h3>
+        <h3>Hola</h3>
     </body>
 </html>
